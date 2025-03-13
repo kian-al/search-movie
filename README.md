@@ -42,6 +42,3 @@ API Used 🌍
 OMDb API for fetching movie data.
 Contribution 🤝
 Feel free to fork, improve, and submit a pull request if you have any enhancements or bug fixes.
-
-License 📜
-This project is licensed under [Your License].
